@@ -1,6 +1,4 @@
 /*
-Készítette: Sóti Kristóf, 2025. 02. 07.
-
 Források:
 - https://www.youtube.com/watch?v=AvSCAxbqvvE&t=761s
 - https://www.youtube.com/watch?v=vJct0vD6WWg
